@@ -42,7 +42,7 @@ Existe un equipo del que Martin forma parte. Es un equipo reducido, formado por 
 - Constatar que todos los integrantes se consideren felices
 
 Algunos de los posibles compañeros de equipo de Martín son:
-- María: Realiza actividades que varían su nivel de endorfina. Su energía se calcula como el doble de su nivel energía más lo que la energia que le aporta su amuleto, que depende de qué color es (5 para el amarillo, 7 para el verde, 14 para el rojo, como en las frutas). Inicia con 100 de endorfina y un amuleto rojo. Su felicidad depende de que su endorfina supere la energía que le aporta su amuleto. C
+- María: Realiza actividades que varían su nivel de endorfina. Su energía se calcula como el doble de su nivel de endorfina más lo que la energia que le aporta su amuleto, que depende de qué color es (5 para el amarillo, 7 para el verde, 14 para el rojo, como en las frutas). Inicia con 100 de endorfina y un amuleto rojo. Su felicidad depende de que su endorfina supere la energía que le aporta su amuleto. C
 - Pepe: Siempre se considera feliz y su energía es 77. 
 - Agregate vos, con una implementación no trivial. 
 
