@@ -27,7 +27,7 @@ Cuando llega la noche Martín se va a dormir, lo que hace que su energía aument
 
 ### Consideraciones adicionales
 - En ningún momento la energía puede pasar a ser negativa, permanece a lo sumo en 0.
-- El peso de la naranja inicialmente es de 60 Gramos y su color naturalmente naranja.
+- El peso de la mandarina inicialmente es de 60 Gramos y su color naturalmente naranja.
 - Permitir que una manzana se ponga amarilla y de esta manera, pase a proporcionar también 5 unidades de energía
 - La temperatura actual de la ciudad es de 20 grados, pero puede ir cambiando durante el día.
 - Martín inicialmente tiene 100 de energía, no hizo aún actividades y está satisfecho, por lo que empieza feliz.
